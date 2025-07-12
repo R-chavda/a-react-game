@@ -9,6 +9,7 @@
 /coverage
 
 # production
+# Ignore build folder in development, but include it for deployment if needed
 /build
 
 # misc
